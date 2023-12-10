@@ -1,7 +1,7 @@
 {
-  "name": "3-x-christmas-hero-scenes-with-real-snow",
+  "name": "uncommon_hero",
   "version": "1.0.0",
-  "description": "Scene exported with Spline",
+  "description": "uncommon christmas scene",
   "scripts": {
     "start": "serve"
   },
